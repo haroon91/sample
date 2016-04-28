@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f6c397</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <item name="semi_transparent" type="color">#55000000</item>
+    <item name="transparent" type="color">#00000000</item>
+    <item name="disabled_grey" type="color">#FF555555</item>
+    <!-- previous blues are 2FB9E7/39A1CD -->
+    <item name="theme_light_blue" type="color">#37C3F2</item>
+    <item name="app_gray" type="color">#99AAAAAA</item>
+    <item name="line_gray" type="color">#F2F2F2</item>
+    <item name="app_red" type="color">#CF1A12</item>
+    <item name="white" type="color">#FFFF</item>
+    <item name="background_gray" type="color">#EAEAEA</item>
+    <item name="text_dark" type="color">#555555</item>
+    <item name="text_gray" type="color">#9D9D9D</item>
+    <item name="semi_white" type="color">#F8F8F8F8</item>
+    <item name="semi_theme_blue" type="color">#DD37C3F2</item>
+    <item name="text_shadow" type="color">#7F000000</item>
+    <item name="feed_gray" type="color">#E1E1E1</item>
+    <item name="black" type="color">#000000</item>
+    <item name="light_black" type="color">#1a1a1a</item>
+    <item name="border_gray" type="color">#B2B2B2</item>
+
+</resources>

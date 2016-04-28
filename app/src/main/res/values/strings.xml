@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="preference_file_key">com.example.haroon.sample</string>
+</resources>
